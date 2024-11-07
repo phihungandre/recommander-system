@@ -1,8 +1,15 @@
 # Final Project
 
+Disclaimer:
+
+This project is from a recommander system course made by Oscar Defelice at EPITA.\
+For more informations, please checkout the original repository: https://github.com/oscar-defelice/Recommender-Systems-Course?tab=GPL-3.0-1-ov-file
+
+
 <p align="center">
     <img width="721" alt="cover-image" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Tom%27s_Restaurant%2C_NYC.jpg/1280px-Tom%27s_Restaurant%2C_NYC.jpg">
 </p>
+
 
 The objective of this project is to build a recommendation engine to predict what restaurants customers are most likely to order from given the customer location, restaurant information, and the customer order history.
 
@@ -63,7 +70,3 @@ WTWOE69 X 0 X 105            0
 ```
 
 Where $1$ indicates that a customer will order from that restaurant and $0$ that they will not order from that restaurant.
-
-Disclaimer:\
-This project is from a recommander system course made by Oscar Defelice at EPITA.\
-For more informations, please checkout the original repository: https://github.com/oscar-defelice/Recommender-Systems-Course?tab=GPL-3.0-1-ov-file
