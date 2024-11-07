@@ -64,5 +64,6 @@ WTWOE69 X 0 X 105            0
 
 Where $1$ indicates that a customer will order from that restaurant and $0$ that they will not order from that restaurant.
 
-This project is from a recommander system course made by Oscar Defelice at EPITA.
-checkout the original repository: https://github.com/oscar-defelice/Recommender-Systems-Course?tab=GPL-3.0-1-ov-file
+Disclaimer:\
+This project is from a recommander system course made by Oscar Defelice at EPITA.\
+For more informations, please checkout the original repository: https://github.com/oscar-defelice/Recommender-Systems-Course?tab=GPL-3.0-1-ov-file
